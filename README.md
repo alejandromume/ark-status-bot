@@ -8,7 +8,7 @@
 
 1. Clone the repository (`git clone https://github.com/alejandromume/ark-status-bot` )
 2. Install the dependencies (`npm i`)
-3. Open the `status.js` and add the bot token
+3. Open the `config.json` and add the bot token, IP and query port
 4. Run the bot (`node status.js`)
 
 ## <ins>Commands
